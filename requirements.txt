@@ -1,0 +1,40 @@
+# Core LangChain and Google Gemini dependencies
+langchain==0.1.5
+langchain-community==0.0.20
+langchain-google-genai==0.0.11
+
+# Google AI dependencies
+google-generativeai==0.3.2
+google-ai-generativelanguage==0.4.0
+
+# Vector store and embeddings
+chromadb==0.4.22
+sentence-transformers==2.2.2
+
+# PDF processing
+pypdf==4.0.1
+PyPDF2==3.0.1
+
+# Text processing
+tiktoken==0.5.2
+beautifulsoup4==4.12.3
+
+# Jupyter and display
+ipywidgets==8.1.1
+ipython==8.18.1
+
+# Utility libraries
+python-dotenv==1.0.1
+numpy==1.26.3
+pandas==2.2.0
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Streamlit for web app interface
+streamlit==1.31.1
+streamlit-chat==0.1.1
+streamlit-option-menu==0.3.6
+plotly==5.18.0
+
+# Optional: For enhanced text splitting (install separately if needed)
+# unstructured>=0.10.0
