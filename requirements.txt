@@ -1,5 +1,5 @@
 # Core LangChain and Google Gemini dependencies
-langchain==0.1.5
+langchain==0.2.5
 langchain-community==0.0.20
 langchain-google-genai==0.0.11
 
