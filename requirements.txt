@@ -31,7 +31,7 @@ matplotlib==3.8.2
 seaborn==0.13.2
 
 # Streamlit for web app interface
-streamlit==1.31.1
+streamlit==1.37.0
 streamlit-chat==0.1.1
 streamlit-option-menu==0.3.6
 plotly==5.18.0
