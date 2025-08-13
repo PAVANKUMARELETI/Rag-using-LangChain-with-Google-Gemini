@@ -12,7 +12,7 @@ chromadb==0.4.22
 sentence-transformers==2.2.2
 
 # PDF processing
-pypdf==4.0.1
+pypdf==6.0.0
 PyPDF2==3.0.1
 
 # Text processing
