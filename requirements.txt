@@ -1,6 +1,6 @@
 # Core LangChain and Google Gemini dependencies
 langchain==0.1.5
-langchain-community==0.0.20
+langchain-community==0.3.27
 langchain-google-genai==0.0.11
 
 # Google AI dependencies
